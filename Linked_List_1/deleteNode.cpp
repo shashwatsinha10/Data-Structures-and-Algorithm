@@ -33,7 +33,6 @@ Node* deleteNode(Node *head, int pos){
     return head;
   }
   currentNode->next = currentNode->next->next;
-  delete (currentNode->next)
   return head;
 }
 
