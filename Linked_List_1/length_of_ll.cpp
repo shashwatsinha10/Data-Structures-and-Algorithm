@@ -55,6 +55,7 @@ int main()
 	{
 		Node *head = takeinput();
 		cout << length(head) << endl;
+		print(head);
 	}
 	return 0;
 }
