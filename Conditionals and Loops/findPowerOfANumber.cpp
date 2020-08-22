@@ -9,4 +9,4 @@ int main() {
         n--;
     }
     cout << ans << endl;
-}
+}  
